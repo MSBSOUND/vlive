@@ -4,9 +4,17 @@
         <title>MAGIC STRAWBERRY SOUND ─ Media Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Mar 2022 08:29:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 09:22:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[최정윤 (Choi Jungyoon) - 사랑을 말해야 해 [MV]]]></title>
+            <link>https://www.vlive.tv/post/0-28574711</link>
+            <guid>https://www.vlive.tv/post/0-28574711</guid>
+            <pubDate>Wed, 30 Mar 2022 09:22:57 GMT</pubDate>
+            <content:encoded><![CDATA[5분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220330_83/1648631826562G7cbi_JPEG/upload_649013945072736373b270dc6-f966-46eb-b9c8-275b4fae40ae.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[레인보우99 (RAINBOW99) - 드라이브 [MV]]]></title>
             <link>https://www.vlive.tv/post/0-27705397</link>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/1-26965578</guid>
             <pubDate>Sat, 26 Mar 2022 05:20:24 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.16.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211216_273/1639647762086eXO0F_JPEG/1639646576043.jpeg?type=f359x202" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[구원찬 (Kuonechan) - 표현 [MV]]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/0-22860750</guid>
             <pubDate>Sat, 26 Mar 2022 05:20:24 GMT</pubDate>
             <content:encoded><![CDATA[2021.5.13.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[10CM Single [5.2] Teaser]]></title>
-            <link>https://www.vlive.tv/post/0-22684094</link>
-            <guid>https://www.vlive.tv/post/0-22684094</guid>
-            <pubDate>Sat, 26 Mar 2022 05:20:24 GMT</pubDate>
-            <content:encoded><![CDATA[2021.5.3.]]></content:encoded>
         </item>
     </channel>
 </rss>
