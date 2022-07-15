@@ -4,9 +4,17 @@
         <title>MAGIC STRAWBERRY SOUND ─ Media Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 09:24:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 10:27:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[최정윤(Choi Jungyoon) - 착한 사람들이 먼저 가는 우주 [M/V]]]></title>
+            <link>https://www.vlive.tv/post/0-29856795</link>
+            <guid>https://www.vlive.tv/post/0-29856795</guid>
+            <pubDate>Fri, 15 Jul 2022 10:27:56 GMT</pubDate>
+            <content:encoded><![CDATA[30분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220715_21/1657879068205aQfl8_JPEG/upload_741486350233009100665fe2d-68c9-4e2b-8f31-4a5a396b1caf.jpeg?type=f359x202" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[10CM - 그라데이션 (Drama ver.)[M/V]]]></title>
             <link>https://www.vlive.tv/post/1-29741323</link>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/1-29621434</guid>
             <pubDate>Thu, 30 Jun 2022 14:21:36 GMT</pubDate>
             <content:encoded><![CDATA[6.25.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220623_59/16559678553382gIXC_PNG/upload_100047411682659957ebd9bfd2-d569-4dd6-85e0-0ace324e4626.png?type=f359x202" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[치즈 (CHEEZE) - ‘퐁당(Pong Dang)’ [MV]]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/1-24750186</guid>
             <pubDate>Thu, 30 Jun 2022 14:21:36 GMT</pubDate>
             <content:encoded><![CDATA[2021.8.15.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[선우정아 (sunwoojunga) - BUFFALO [MV]]]></title>
-            <link>https://www.vlive.tv/post/0-24305274</link>
-            <guid>https://www.vlive.tv/post/0-24305274</guid>
-            <pubDate>Thu, 30 Jun 2022 14:21:36 GMT</pubDate>
-            <content:encoded><![CDATA[2021.7.25.]]></content:encoded>
         </item>
     </channel>
 </rss>
