@@ -4,9 +4,17 @@
         <title>MAGIC STRAWBERRY SOUND ─ Media Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Aug 2022 02:37:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 04:53:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[실리카겔(Silica Gel) - NO PAIN [MV]]]></title>
+            <link>https://www.vlive.tv/post/0-30284799</link>
+            <guid>https://www.vlive.tv/post/0-30284799</guid>
+            <pubDate>Thu, 25 Aug 2022 04:53:01 GMT</pubDate>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220824_253/16613251242836UVHO_JPEG/upload_10540484870091247114be01fc-7b9c-4b52-884f-53695fad1294.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[CHEEZE - 빈칸에게(Feat. 10CM)]]></title>
             <link>https://www.vlive.tv/post/0-30129873</link>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/1-29937130</guid>
             <pubDate>Wed, 10 Aug 2022 09:24:12 GMT</pubDate>
             <content:encoded><![CDATA[7.23.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220722_179/16584702627140FeL6_JPEG/e974eb67-0984-11ed-b77c-48df379cca40_07.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[소수빈 (So Soo Bin) - See you again [MV]]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/1-26586144</guid>
             <pubDate>Wed, 10 Aug 2022 09:24:13 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.23.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[10CM (십센치) - 어제 너는 나를 버렸어 [MV]]]></title>
-            <link>https://www.vlive.tv/post/0-26404013</link>
-            <guid>https://www.vlive.tv/post/0-26404013</guid>
-            <pubDate>Wed, 10 Aug 2022 09:24:13 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.11.]]></content:encoded>
         </item>
     </channel>
 </rss>
