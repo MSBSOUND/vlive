@@ -4,9 +4,25 @@
         <title>MAGIC STRAWBERRY SOUND ─ Media Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Sep 2022 06:21:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Sep 2022 07:46:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[RAINBOW99 - 신림 [LIVE]]]></title>
+            <link>https://www.vlive.tv/post/0-30592274</link>
+            <guid>https://www.vlive.tv/post/0-30592274</guid>
+            <pubDate>Mon, 19 Sep 2022 07:46:01 GMT</pubDate>
+            <content:encoded><![CDATA[51분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220919_58/1663570478546J9nnr_JPEG/3b551c5f-37e7-11ed-8892-505dac8c35ff_05.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[RAINBOW99 - 청량리 [LIVE]]]></title>
+            <link>https://www.vlive.tv/post/0-30592245</link>
+            <guid>https://www.vlive.tv/post/0-30592245</guid>
+            <pubDate>Mon, 19 Sep 2022 07:46:01 GMT</pubDate>
+            <content:encoded><![CDATA[56분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220919_238/16635701575278HUR3_JPEG/06d21e6e-37e7-11ed-9aa2-505dac8c3721_05.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[실리카겔(Silica Gel) - NO PAIN [MV]]]></title>
             <link>https://www.vlive.tv/post/0-30284799</link>
@@ -21,7 +37,6 @@
             <guid>https://www.vlive.tv/post/0-30129873</guid>
             <pubDate>Thu, 15 Sep 2022 12:58:49 GMT</pubDate>
             <content:encoded><![CDATA[8.11.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220810_107/1660113819724lw6TU_JPEG/upload_10419354438818877364280877-3c73-4b22-a3dc-105db12c8276.jpeg?type=f359x202" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[옥상달빛(Okdal) - 세레머니(Ceremony)]]></title>
@@ -29,7 +44,6 @@
             <guid>https://www.vlive.tv/post/0-30117454</guid>
             <pubDate>Thu, 15 Sep 2022 12:58:49 GMT</pubDate>
             <content:encoded><![CDATA[8.9.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220809_279/1660023896062VbV3Y_JPEG/upload_104103620043321433e28ab951-7cee-4790-950f-da010d76117c.jpeg?type=f359x202" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[치즈(CHEEZE) X 곽윤기 - Traveler [MV]]]></title>
@@ -135,20 +149,6 @@
             <guid>https://www.vlive.tv/post/1-26703043</guid>
             <pubDate>Thu, 15 Sep 2022 12:58:49 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.1.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[새소년 (SE SO NEON) - joke! [MV]]]></title>
-            <link>https://www.vlive.tv/post/1-26586572</link>
-            <guid>https://www.vlive.tv/post/1-26586572</guid>
-            <pubDate>Thu, 15 Sep 2022 12:58:49 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.23.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[윤지영 (Yoon Jiyoung) - my luv (prod. Benny Sings) [MV]]]></title>
-            <link>https://www.vlive.tv/post/1-26586144</link>
-            <guid>https://www.vlive.tv/post/1-26586144</guid>
-            <pubDate>Thu, 15 Sep 2022 12:58:49 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.23.]]></content:encoded>
         </item>
     </channel>
 </rss>
