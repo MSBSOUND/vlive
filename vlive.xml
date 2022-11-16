@@ -1,8 +1,154 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.vlive.tv/channel/FAC8D/board/3621?lang=ko</id>
-    <title>MAGIC STRAWBERRY SOUND ─ Media Board</title>
-    <updated>2022-11-16T16:35:11.632Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>MAGIC STRAWBERRY SOUND ─ Media Board</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 16 Nov 2022 17:33:01 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] 요조 EP • 이름들(Names) • Tommy]]></title>
+            <link>https://www.vlive.tv/post/0-31067098</link>
+            <guid>https://www.vlive.tv/post/0-31067098</guid>
+            <pubDate>Wed, 16 Nov 2022 17:33:00 GMT</pubDate>
+            <content:encoded><![CDATA[11.11.]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221111_32/1668161820998mGiqC_JPEG/upload_844313780510346626d0d90c0-0a4e-4fc0-85b8-2874143c025d.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] 이루리(Luli Lee) - 불꽃(Flame)]]></title>
+            <link>https://www.vlive.tv/post/0-30914286</link>
+            <guid>https://www.vlive.tv/post/0-30914286</guid>
+            <pubDate>Wed, 16 Nov 2022 17:33:00 GMT</pubDate>
+            <content:encoded><![CDATA[10.23.]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221023_65/1666513666672Ca0PY_JPEG/upload_82783267493564983a7bbeafd-c83f-4ab0-a774-14e45d1f2c5c.jpeg?type=f359x202" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Visualizer] 선우정아(sunwoojunga) - ANY-motion (2015 rec.)]]></title>
+            <link>https://www.vlive.tv/post/0-30623920</link>
+            <guid>https://www.vlive.tv/post/0-30623920</guid>
+            <pubDate>Wed, 16 Nov 2022 17:33:00 GMT</pubDate>
+            <content:encoded><![CDATA[9.23.]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220922_62/166383123363518Vfo_JPEG/f2467964-3a46-11ed-bf94-d4f5ef590144_01.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Visualizer] 선우정아(sunwoojunga) - 껌(gum) (with. 배현이)]]></title>
+            <link>https://www.vlive.tv/post/0-30623910</link>
+            <guid>https://www.vlive.tv/post/0-30623910</guid>
+            <pubDate>Wed, 16 Nov 2022 17:33:00 GMT</pubDate>
+            <content:encoded><![CDATA[9.23.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[Visualizer] 선우정아(sunwoojunga) - ㅅㅣㄹㅓ(nononono) (with. 남메아리)]]></title>
+            <link>https://www.vlive.tv/post/0-30623904</link>
+            <guid>https://www.vlive.tv/post/0-30623904</guid>
+            <pubDate>Wed, 16 Nov 2022 17:33:01 GMT</pubDate>
+            <content:encoded><![CDATA[9.23.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[Visualizer] 선우정아(sunwoojunga) - OCTAVE (with. SUMIN)]]></title>
+            <link>https://www.vlive.tv/post/0-30623893</link>
+            <guid>https://www.vlive.tv/post/0-30623893</guid>
+            <pubDate>Wed, 16 Nov 2022 17:33:01 GMT</pubDate>
+            <content:encoded><![CDATA[9.23.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[M/V] 선우정아(sunwoojunga) - black coffee (feat.우원재)]]></title>
+            <link>https://www.vlive.tv/post/0-30623880</link>
+            <guid>https://www.vlive.tv/post/0-30623880</guid>
+            <pubDate>Wed, 16 Nov 2022 17:33:01 GMT</pubDate>
+            <content:encoded><![CDATA[9.23.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[RAINBOW99 - 신림 [LIVE]]]></title>
+            <link>https://www.vlive.tv/post/0-30592274</link>
+            <guid>https://www.vlive.tv/post/0-30592274</guid>
+            <pubDate>Wed, 16 Nov 2022 17:33:01 GMT</pubDate>
+            <content:encoded><![CDATA[9.19.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[RAINBOW99 - 청량리 [LIVE]]]></title>
+            <link>https://www.vlive.tv/post/0-30592245</link>
+            <guid>https://www.vlive.tv/post/0-30592245</guid>
+            <pubDate>Wed, 16 Nov 2022 17:33:01 GMT</pubDate>
+            <content:encoded><![CDATA[9.19.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[실리카겔(Silica Gel) - NO PAIN [MV]]]></title>
+            <link>https://www.vlive.tv/post/0-30284799</link>
+            <guid>https://www.vlive.tv/post/0-30284799</guid>
+            <pubDate>Wed, 16 Nov 2022 17:33:01 GMT</pubDate>
+            <content:encoded><![CDATA[8.25.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[CHEEZE - 빈칸에게(Feat. 10CM)]]></title>
+            <link>https://www.vlive.tv/post/0-30129873</link>
+            <guid>https://www.vlive.tv/post/0-30129873</guid>
+            <pubDate>Wed, 16 Nov 2022 17:33:01 GMT</pubDate>
+            <content:encoded><![CDATA[8.11.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[옥상달빛(Okdal) - 세레머니(Ceremony)]]></title>
+            <link>https://www.vlive.tv/post/0-30117454</link>
+            <guid>https://www.vlive.tv/post/0-30117454</guid>
+            <pubDate>Wed, 16 Nov 2022 17:33:01 GMT</pubDate>
+            <content:encoded><![CDATA[8.9.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[치즈(CHEEZE) X 곽윤기 - Traveler [MV]]]></title>
+            <link>https://www.vlive.tv/post/1-29937130</link>
+            <guid>https://www.vlive.tv/post/1-29937130</guid>
+            <pubDate>Wed, 16 Nov 2022 17:33:01 GMT</pubDate>
+            <content:encoded><![CDATA[7.23.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[소수빈 (So Soo Bin) - See you again [MV]]]></title>
+            <link>https://www.vlive.tv/post/0-29908551</link>
+            <guid>https://www.vlive.tv/post/0-29908551</guid>
+            <pubDate>Wed, 16 Nov 2022 17:33:01 GMT</pubDate>
+            <content:encoded><![CDATA[7.21.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[최정윤(Choi Jungyoon) - 착한 사람들이 먼저 가는 우주 [M/V]]]></title>
+            <link>https://www.vlive.tv/post/0-29856795</link>
+            <guid>https://www.vlive.tv/post/0-29856795</guid>
+            <pubDate>Wed, 16 Nov 2022 17:33:01 GMT</pubDate>
+            <content:encoded><![CDATA[7.15.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[10CM - 그라데이션 (Drama ver.)[M/V]]]></title>
+            <link>https://www.vlive.tv/post/1-29741323</link>
+            <guid>https://www.vlive.tv/post/1-29741323</guid>
+            <pubDate>Wed, 16 Nov 2022 17:33:01 GMT</pubDate>
+            <content:encoded><![CDATA[7.4.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[10CM - 그라데이션]]></title>
+            <link>https://www.vlive.tv/post/0-29705073</link>
+            <guid>https://www.vlive.tv/post/0-29705073</guid>
+            <pubDate>Wed, 16 Nov 2022 17:33:01 GMT</pubDate>
+            <content:encoded><![CDATA[7.3.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[실리카겔 (Silica Gel) - I’MMORTAL (feat. sogumm) [MV]]]></title>
+            <link>https://www.vlive.tv/post/1-29621434</link>
+            <guid>https://www.vlive.tv/post/1-29621434</guid>
+            <pubDate>Wed, 16 Nov 2022 17:33:01 GMT</pubDate>
+            <content:encoded><![CDATA[6.25.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[치즈 (CHEEZE) - ‘퐁당(Pong Dang)’ [MV]]]></title>
+            <link>https://www.vlive.tv/post/1-29417412</link>
+            <guid>https://www.vlive.tv/post/1-29417412</guid>
+            <pubDate>Wed, 16 Nov 2022 17:33:01 GMT</pubDate>
+            <content:encoded><![CDATA[6.7.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[구원찬(Kuonechan) - 유리잔 [LIVE]]]></title>
+            <link>https://www.vlive.tv/post/0-28952619</link>
+            <guid>https://www.vlive.tv/post/0-28952619</guid>
+            <pubDate>Wed, 16 Nov 2022 17:33:01 GMT</pubDate>
+            <content:encoded><![CDATA[4.28.]]></content:encoded>
+        </item>
+    </channel>
+</rss>
