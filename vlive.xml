@@ -4,9 +4,17 @@
         <title>MAGIC STRAWBERRY SOUND ─ Media Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Dec 2022 11:19:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Dec 2022 12:49:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[민수 (Minsu) - No worries, I'm good (Official Video)]]></title>
+            <link>https://www.vlive.tv/post/1-31211645</link>
+            <guid>https://www.vlive.tv/post/1-31211645</guid>
+            <pubDate>Thu, 01 Dec 2022 12:49:33 GMT</pubDate>
+            <content:encoded><![CDATA[8분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221201_151/1669898458858X1mOC_JPEG/upload_86168060898047542bac31878-3aa6-4a5c-b87b-ae2ae447272a.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[송소희(Song Sohee) - 구름곶 여행 [M/V]]]></title>
             <link>https://www.vlive.tv/post/1-31170015</link>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/0-30914286</guid>
             <pubDate>Wed, 16 Nov 2022 17:33:00 GMT</pubDate>
             <content:encoded><![CDATA[10.23.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221023_65/1666513666672Ca0PY_JPEG/upload_82783267493564983a7bbeafd-c83f-4ab0-a774-14e45d1f2c5c.jpeg?type=f359x202" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[Visualizer] 선우정아(sunwoojunga) - ANY-motion (2015 rec.)]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/1-29621434</guid>
             <pubDate>Wed, 16 Nov 2022 17:33:01 GMT</pubDate>
             <content:encoded><![CDATA[6.25.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[치즈 (CHEEZE) - ‘퐁당(Pong Dang)’ [MV]]]></title>
-            <link>https://www.vlive.tv/post/1-29417412</link>
-            <guid>https://www.vlive.tv/post/1-29417412</guid>
-            <pubDate>Wed, 16 Nov 2022 17:33:01 GMT</pubDate>
-            <content:encoded><![CDATA[6.7.]]></content:encoded>
         </item>
     </channel>
 </rss>
